@@ -3,11 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWebAngular", "CoreWebAngular\CoreWebAngular.csproj", "{8998F20F-C00F-4CBE-8C0B-ACD87BA8859A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebAngular", "CoreWebAngular\CoreWebAngular.csproj", "{8998F20F-C00F-4CBE-8C0B-ACD87BA8859A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{292A97AA-A489-4D72-902C-A3C97D67DEBE}"
 	ProjectSection(SolutionItems) = preProject
+		Creating template 01.JPG = Creating template 01.JPG
+		Creating template 02.JPG = Creating template 02.JPG
 		readme.txt = readme.txt
+		Solution Explorer.JPG = Solution Explorer.JPG
 	EndProjectSection
 EndProject
 Global
